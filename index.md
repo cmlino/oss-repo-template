@@ -1,11 +1,11 @@
 # Open Source Software - Summer 2019
-## Christina Lino (cl47)
+## Christina Lino (gumby)
 
 ## Bio
 github account: cmlino
 slack handle: cmlino
 
-photo
+![photo](profile.JPG)
 
 
 
