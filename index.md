@@ -2,8 +2,10 @@
 ## Christina Lino (gumby)
 
 ## Bio
-github account: cmlino
+github account: cmlino 
+<br />
 slack handle: cmlino
+<br />
 
 ![photo](profile.JPG)
 
