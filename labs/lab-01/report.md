@@ -3,7 +3,7 @@
 discord screenshot: <br />
 ![discord_screenshot](screenshot.PNG)
 
-<b> 2. Reading Assignments <\b>
+<b> 2. Reading Assignments <b/>
 Open Source Definition
 
 Smart Questions
@@ -12,6 +12,6 @@ Smart Questions
 
 Free Culture
 
-<b> 5. Linux <\b>
+<b> 5. Linux <b/>
 ![tree screenshot](tree.PNG)
   
