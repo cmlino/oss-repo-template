@@ -1,8 +1,14 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Christina Lino (cl47)
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+github account: cmlino
+slack handle: cmlino
+
+photo
+
+
+
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
