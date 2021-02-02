@@ -15,7 +15,7 @@
 <img width="400" alt="portfolio_view" src=tree.PNG>
 
 4. Regex <br/>
-1. RegexOne
+RegexOne
 <img width="400" alt="portfolio_view" src=exercise1.PNG>
 <img width="400" alt="portfolio_view" src=exercise2.PNG>
 <img width="400" alt="portfolio_view" src=exercise3.PNG>
@@ -24,7 +24,7 @@
 <img width="400" alt="portfolio_view" src=exercise6.PNG>
 <img width="400" alt="portfolio_view" src=exercise7.PNG>
 
-2. RegexCrosswords
+RegexCrosswords
 <img width="400" alt="portfolio_view" src=regex_crossword.PNG>
 
 5. Blockly <br/>
