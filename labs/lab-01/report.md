@@ -3,8 +3,8 @@
 <span style="text-decoration: underline">0. Join Discord </span> <br/>
 <img width="200" alt="portfolio_view" src=screenshot.PNG>
 
-<span style="text-decoration: underline">2. Reading Assingments </span> <br/>
-2. <ul>
+<span style="text-decoration: underline">2. Reading Assignments </span> <br/>
+<ul>
 <li>Make sure that your answers are simple and thorough - if it's clear that the person is a beginner, avoid being alienating or condesending.</li>
 <li>Do not be afraid to ask further clarifying questions of the person asking, especially if the original question is unclear. Be sure to answer all parts of their question.</li>
 </ul>
@@ -15,9 +15,20 @@
 <img width="400" alt="portfolio_view" src=tree.PNG>
 
 4. Regex <br/>
+1. RegexOne
+<img width="400" alt="portfolio_view" src=exercise1.PNG>
+<img width="400" alt="portfolio_view" src=exercise2.PNG>
+<img width="400" alt="portfolio_view" src=exercise3.PNG>
+<img width="400" alt="portfolio_view" src=exercise4.PNG>
+<img width="400" alt="portfolio_view" src=exercise5.PNG>
+<img width="400" alt="portfolio_view" src=exercise6.PNG>
+<img width="400" alt="portfolio_view" src=exercise7.PNG>
+
+2. RegexCrosswords
+<img width="400" alt="portfolio_view" src=regex_crossword.PNG>
 
 5. Blockly <br/>
-  
+  <img width="400" alt="portfolio_view" src=blockly_solution.PNG>
 6. Reflection <br/>
 After looking into different open source projects, I have realized that I would prefer to work on software used in neuroscience or cognitive science labs, and one such project is Psychopy. PsychoPy is an open source software package, written in Python programming language, that can be used to create experiments for neuroscience and experimental psychology. I'm familiar with the user interface through cognitive science research, and it would be nice to contribute to the backend. Their issue tracker has some issues labelled "beginner" and "not time-sensitive", so it should be easy to get involved with it!
 I also want to investiage OpenNeuroOrg, an open platform for analyzing and sharing neuroimaging data, but it seems like a more complicated codebase that would require more time to become familiar with. I hope I can take the time to get more familiar with it and potentially contribute at some point during the semester!
