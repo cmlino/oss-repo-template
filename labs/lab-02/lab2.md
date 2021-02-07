@@ -10,6 +10,10 @@ lab2part1 repo: https://github.com/cmlino/lab2part1 \\
 
 ### Part 2
 <img width="200" alt="portfolio_view" src=intro_sequence.PNG>
+<img width="200" alt="portfolio_view" src=intro1.PNG>
+<img width="200" alt="portfolio_view" src=intro2.PNG>
+<img width="200" alt="portfolio_view" src=intro3.PNG>
+<img width="200" alt="portfolio_view" src=intro4.PNG>
 
 ### Part 3
 pullreq forked repo: https://github.com/cmlino/PullReq
