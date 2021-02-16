@@ -24,7 +24,7 @@ $$
 $$
 ```
 
-<img width="300" height="150" alt="portfolio_view" src=hadamard.PNG> </br>
+<img width="200" height="150" alt="portfolio_view" src=hadamard.PNG> </br>
 
 
 ## Part 2
@@ -38,9 +38,9 @@ Latest commit: 12/10/2020 </br>
 Current branches: master, tutor_settings_redux, client-meetings, login-redesign, schedule-meeting, data-analysis, reduc_refactor, redux_refactor/navigation, new_scheduler, scheduler, react_schedule_selector </br>
 
 <b> Gitstats: </b> </br>
-<img width="300" height="300" alt="portfolio_view" src=tutorbase_stats.PNG> </br>
+<img width="500" height="450" alt="portfolio_view" src=tutorbase_stats.PNG> </br>
 
-The results that I found from gitstats were similar to those I found from the GitHub exercise, as expected. Gitstats showed that the commits and the lines were the same, but Gitstats found one extra contributor. The difference might be due to a bot that was added to the GitHub.  </br>
+The results that I found from gitstats were similar to those I found from the GitHub exercise, as expected. Gitstats showed that the commits and the lines were the same, but Gitstats found one extra contributor. The difference might be due to a bot that was added to the GitHub repo.  </br>
 
 
 <b> Gource </b> </br>
