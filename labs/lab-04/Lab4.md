@@ -1,4 +1,4 @@
-<b> License </b></br>
+<b> 1. License </b></br>
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
 
 <b>3.  Why is it important to choose a LICENSE? </b> </br>
