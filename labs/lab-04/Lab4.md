@@ -34,6 +34,6 @@ https://github.com/rcos/Telescope | Yes | MIT License https://mit-license.org/
 https://github.com/OpenCircuits/OpenCircuits | Yes | GPL-3.0 License https://www.gnu.org/licenses/gpl-3.0.en.html
 https://github.com/FolsomLibraryOccupanyMonitor/FLOM | Yes | MIT License https://mit-license.org/
 https://github.com/Submitty| Yes | BSD 3-Clause License https://opensource.org/licenses/BSD-3-Clause
-https://github.com/YACS-RCOS/yacs.n | Yes | MIT  https://mit-license.org/
+https://github.com/YACS-RCOS/yacs.n | Yes | MIT License https://mit-license.org/
 
 
