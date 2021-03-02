@@ -57,8 +57,7 @@ int main(int argc, char* argv[])
 ```
 
 Tutorial Output:
-![tutorial_output] (tutorial-step1.PNG)
-
+<img width="200" height="150" alt="portfolio_view" src=tutorial-step1.PNG> </br>
 
 ### Step 2 ###
 
