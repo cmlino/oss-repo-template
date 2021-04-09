@@ -5,6 +5,7 @@ Docker is running.
 <img src="example00.PNG">
 
 ## Example 1
+I began an interactive ubuntu terminal:
 ### Running the Ubuntu Container
 <img src="example01_1.PNG">
 
