@@ -1,5 +1,5 @@
 ## Checkpoint 0: Project Updates
-Project update
+Project update: https://github.com/cmlino/buoy/discussions/7
 
 ## Checkpoint 1: Install MongoDB
 MongoDB has been properly installed. Here is a screenshot of the connection accepted message from the `mongod` window:
