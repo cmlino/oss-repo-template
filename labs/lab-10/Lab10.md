@@ -1,5 +1,5 @@
 ## Checkpoint 0: Project Updates
-Link to project update
+Project update
 
 ## Checkpoint 1: Install MongoDB
 MongoDB has been properly installed. Here is a screenshot of the connection accepted message from the `mongod` window:
@@ -47,10 +47,49 @@ This is the `git diff` of definitions.json:
 This is a link to my pr: https://github.com/rcos/mongodb_lab/pull/9/files
 
 ## Checkpoint 4: Driving Queries
-This is a link to checkpoint4.py:
-This is a link to the output for that file:
+checkpoint4.py:
+```
+from bson.objectid import ObjectId
+from pymongo import MongoClient
+import pprint
+client = MongoClient('localhost', 27017)
+db = client.mongo_db_lab
+collection = db.definitions
+
+if __name__ == '__main__':
+    
+
+    # Fetch all records
+    print("Fetch all records")
+    for definition in collection.find():
+        pprint.pprint(definition)
+    
+    print("\n\n")
+
+    # Fetch one record
+    print("Fetch one record (random)")
+    pprint.pprint(collection.find_one())
+
+    print("\n\n")
+    print("Fetch a specifc record (word: bulk)")
+    pprint.pprint(collection.find_one({"word": "Bulk"}))
+
+    print("\n\n")
+
+    print("Fetch a record by oject id")
+    pprint.pprint(collection.find_one({"_id": ObjectId("56fe9e22bad6b23cde07b8ce")}))
+
+    print("\n\n")
+
+    # Insert a new record
+    collection.insert_one({"word": "Orange", "definition": "Color of a nice sunset"})
+    pprint.pprint(collection.find_one({"word": "Orange"}))
+```
+
+Output for checkpoint4.py:
+https://github.com/cmlino/oss-repo/blob/master/labs/lab-10/output.txt
 
 ## Checkpoint 5: Random Word Requester
-This is a link to my checkpoint5.py:
+This is a link to my checkpoint5.py: 
 This is a screenshot to the output for a word that was visited twice:
 <img src="checkpoint5_0.PNG">
