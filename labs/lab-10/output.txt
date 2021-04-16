@@ -50,6 +50,7 @@ Fetch all records
  'definition': ' n. A main staple of the Rensselaer Diet.',
  'word': 'Beer'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8c2'),
+ 'dates': ['2021-04-16T13:21:28.587168'],
  'definition': ' exp. (RPI) A more serious version of alarm, not to be '
                "confused with ``Be Like A Real Man.''",
  'word': 'Blarm'}
@@ -68,11 +69,13 @@ Fetch all records
  'definition': ' v. To disregard; see Punt.',
  'word': 'Blow Off'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8c7'),
+ 'dates': ['2021-04-16T13:14:31.537058'],
  'definition': ' n. A very random and unpredictable sort of motion. Best '
                'typified by, say, a nice hot cup of tea. (Also see Halliday '
                'and Resnick.)',
  'word': 'Brownian Motion'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8c8'),
+ 'dates': ['2021-04-16T13:15:20.048601'],
  'definition': ' n. Your first degree, assuming you finish.',
  'word': 'B.S.'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8c9'),
@@ -83,11 +86,13 @@ Fetch all records
  'definition': 'What one hopes to gain after one or two sessions at the gym',
  'word': 'Bulk'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8cb'),
+ 'dates': ['2021-04-16T13:13:35.631192'],
  'definition': " n. (RPI) For those who don't listen to WPYX, and still don't "
                'know this term, it means Albany and Rensselaer Counties and '
                'the general surrounding area.',
  'word': 'Capitaland'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8cc'),
+ 'dates': ['2021-04-16T13:14:13.363066'],
  'definition': ' n.  A package containing munchies, junk food and probably a '
                'stuffed animal, intended to ease homesickness.',
  'word': 'Care Package'}
@@ -162,6 +167,7 @@ Fetch all records
                'Assembler.',
  'word': 'FCN'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8dd'),
+ 'dates': ['2021-04-16T12:57:39.096486'],
  'definition': ' exp. A word of disgust.',
  'word': 'Feh'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8de'),
@@ -181,6 +187,7 @@ Fetch all records
  'definition': " n., acronym. ``F*ck Off And Die.''",
  'word': 'FOAD'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8e2'),
+ 'dates': ['2021-04-16T12:57:17.191920'],
  'definition': ' n.  A letter from a company which says, ``We liked your '
                "resume, and had a real good time laughing at it, and we don't "
                'want to hire you now, but (chuckle) please (snort) try again '
@@ -189,6 +196,7 @@ Fetch all records
                'a summer job.  Most RPI seniors receive five or six of them.',
  'word': 'FOAD Letter'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8e3'),
+ 'dates': ['2021-04-16T13:14:39.997560', '2021-04-16T13:16:39.278872'],
  'definition': ' n. Generic pronoun. (Others are: Bar, Zot.)',
  'word': 'Foo'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8e4'),
@@ -218,6 +226,7 @@ Fetch all records
  'definition': ' n. (RPI) Favorite nick-name of Price Chopper.',
  'word': 'Gouger'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8eb'),
+ 'dates': ['2021-04-16T13:14:29.289965'],
  'definition': ' n. General Personal Aptitude, the rating by which the rest of '
                "the world values your existence. Though you'll hear of these, "
                "RPI won't give you one; being a technical school, they have to "
@@ -261,6 +270,7 @@ Fetch all records
                'Square Root Club members retire for a semester or two.',
  'word': 'HVCC'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8f3'),
+ 'dates': ['2021-04-16T13:21:33.310224'],
  'definition': ' n. Pertaining to input and output operations, like sex and '
                'eating.',
  'word': 'I-O'}
@@ -287,9 +297,11 @@ Fetch all records
  'definition': " n. A practical exercise in Finagle's Law.",
  'word': 'Lab Report'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8fa'),
+ 'dates': ['2021-04-16T13:21:22.237723'],
  'definition': ' v. to attach oneself onto.',
  'word': 'Latch'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b8fb'),
+ 'dates': ['2021-04-16T13:14:48.690611'],
  'definition': " n. The Nuclear Department's linear accelerator, which is "
                "aimed directly at Troy's main water tower, the Space Invader. "
                'It is mainly used to project matter out of the Known Universe.',
@@ -329,6 +341,7 @@ Fetch all records
                '$MESSAGESYSTEM more than the operating system).',
  'word': 'MTS'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b903'),
+ 'dates': ['2021-04-16T12:44:30.344747'],
  'definition': ' n.  A variable word pertaining to any noun, object or thing.',
  'word': 'Mumble'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b904'),
@@ -344,6 +357,7 @@ Fetch all records
                'infinity.',
  'word': 'N'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b907'),
+ 'dates': ['2021-04-16T12:57:03.547744'],
  'definition': ' n. Any of several devices that vend unnatural and '
                'artificially flavored food-stuff for late night feeders. The '
                'largest collections are in the JEC Lounge, the Field House, '
@@ -361,6 +375,7 @@ Fetch all records
                "waste time by ``slugging off.'' To ignore something.",
  'word': 'No Op'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b90b'),
+ 'dates': ['2021-04-16T13:13:28.816918'],
  'definition': ' n.  Referring to anything nuclear, including weapons, power '
                'or radiation. --- v. To eradicate or obliterate.',
  'word': 'Nuke'}
@@ -393,12 +408,14 @@ Fetch all records
                "guy'').",
  'word': 'Party'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b912'),
+ 'dates': ['2021-04-16T13:21:25.311765'],
  'definition': ' n.  One of the options available to a Tute student. A class '
                'on Pass-Punt does not count against you if you fail or do '
                'poorly; it also does not help your GPA even if you do '
                "incredibly well. Officially called ``Pass-No Credit.''",
  'word': 'Pass-Punt'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b913'),
+ 'dates': ['2021-04-16T13:14:06.979463'],
  'definition': ' n. The perforated strips of paper that come off of computer '
                'printouts. Makes great confetti.',
  'word': 'Perf'}
@@ -423,6 +440,7 @@ Fetch all records
                'is usually the veal).',
  'word': 'Puck'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b918'),
+ 'dates': ['2021-04-16T12:58:06.584389'],
  'definition': ' v. To drop, reject or ignore, as in classes.',
  'word': 'Punt'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b919'),
@@ -439,10 +457,12 @@ Fetch all records
                'Reality.',
  'word': 'QPA'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b91c'),
+ 'dates': ['2021-04-16T13:21:20.335462'],
  'definition': ' n.  (RPI) The three-sided upperclassman housing structure '
                'across from the Union.',
  'word': 'Quad'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b91d'),
+ 'dates': ['2021-04-16T13:16:22.511383'],
  'definition': ' adj. To be diverse in nature.',
  'word': 'Random'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b91e'),
@@ -487,6 +507,7 @@ Fetch all records
                'building. (See Vector.)',
  'word': 'Scalar'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b928'),
+ 'dates': ['2021-04-16T12:58:11.355562'],
  'definition': ' v. To take repetitively until none is left.',
  'word': 'Scarf'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b929'),
@@ -518,6 +539,7 @@ Fetch all records
                'the square root of their cumes.',
  'word': 'Square Root Club'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b92f'),
+ 'dates': ['2021-04-16T12:29:47.125217'],
  'definition': ' n., acronym. (RPI) The Saratoga Performing Arts Center, yet '
                'another center which is the site of many concerts.',
  'word': 'SPAC'}
@@ -526,12 +548,14 @@ Fetch all records
                'and in the sights of the Lineac.',
  'word': 'Space Invader'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b931'),
+ 'dates': ['2021-04-16T13:14:15.647028', '2021-04-16T13:21:18.233008'],
  'definition': ' n. Naval ROTC type.',
  'word': 'Squid'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b932'),
  'definition': " n.  Anything and everything (pronounced ``star-dot-star'').",
  'word': '*.*'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b933'),
+ 'dates': ['2021-04-16T12:56:12.267198'],
  'definition': ' n. A buzzword prevalent around the end of the spring '
                "semes-ter, it is a common method of rating the ``value'' of "
                "one's diploma.",
@@ -549,6 +573,7 @@ Fetch all records
                'undergrads who speak a foreign tongue, English.',
  'word': 'TA'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b937'),
+ 'dates': ['2021-04-16T13:21:26.919901'],
  'definition': ' n. (RPI) For many campus buildings, the floor where the main '
                'doors are.',
  'word': 'Third Floor'}
@@ -561,6 +586,7 @@ Fetch all records
  'definition': ' n. One who studies, and studies, and ...',
  'word': 'Toad'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b93a'),
+ 'dates': ['2021-04-16T12:57:45.708373'],
  'definition': ' n.  One who studies considerably.  v. -ing, to study '
                'excessively.',
  'word': 'Tool'}
@@ -573,6 +599,7 @@ Fetch all records
                "peculiar device ...  whichever way you turn it, it goes in.''",
  'word': 'Tute Screw'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b93d'),
+ 'dates': ['2021-04-16T13:15:04.231965'],
  'definition': ' n.  A person who has had his common sense surgically removed.',
  'word': 'Twink'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b93e'),
@@ -614,12 +641,14 @@ Fetch all records
                'House. Not a good car for road trips.',
  'word': 'Zamboni'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b947'),
+ 'dates': ['2021-04-16T13:21:23.991082'],
  'definition': ' n. Calzone, a folded-over za.',
  'word': 'Zone'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b948'),
  'definition': ' n. Air Force ROTC type.',
  'word': 'Zoomie'}
 {'_id': ObjectId('56fe9e22bad6b23cde07b949'),
+ 'dates': ['2021-04-16T13:13:52.108330'],
  'definition': ' v.  To copy onto a reused piece of magnetic tape, e.g., '
                'cassette or video tape.',
  'word': 'Zurn'}
@@ -627,17 +656,50 @@ Fetch all records
  'definition': 'Convenience store in the Student Union that sells coffee at '
                '2:00 AM, among other things',
  'word': "Father's"}
+{'_id': ObjectId('6079046b0a1059edc7f08e97'),
+ 'definition': 'Color of a nice sunset',
+ 'word': 'Orange'}
+{'_id': ObjectId('607992f15c983856b1b2a973'),
+ 'definition': 'Color of a nice sunset',
+ 'word': 'Orange'}
+{'_id': ObjectId('6079937791f72a4d8baf6d70'),
+ 'definition': 'Color of a nice sunset',
+ 'word': 'Orange'}
+{'_id': ObjectId('6079939d162fe7fc97472176'),
+ 'definition': 'Color of a nice sunset',
+ 'word': 'Orange'}
+{'_id': ObjectId('60799482a9f30e77364364d9'),
+ 'definition': 'Color of a nice sunset',
+ 'word': 'Orange'}
+{'_id': ObjectId('60799496b9487401437ba1f9'),
+ 'definition': 'Color of a nice sunset',
+ 'word': 'Orange'}
 
- Fetch one record
+
+
+Fetch one record (random)
 {'_id': ObjectId('56fe9e22bad6b23cde07b8b7'),
  'definition': " exp. Equivalent to ``gag.''",
  'word': 'Ack'}
+
+
+
+Fetch a specifc record (word: bulk)
 {'_id': ObjectId('56fe9e22bad6b23cde07b8ca'),
  'definition': 'What one hopes to gain after one or two sessions at the gym',
  'word': 'Bulk'}
+
+
+
+Fetch a record by oject id
 {'_id': ObjectId('56fe9e22bad6b23cde07b8ce'),
  'definition': ' n.  (RPI) The ubiquitous supermarket of the Capital District '
                'and all-time favorite food store for RPI students.  Also '
                "called ``Price Gouger'' or ``Price Hacker.''",
  'word': 'Chopper'}
-<pymongo.results.InsertOneResult object at 0x7f7cf907d040>
+
+
+
+{'_id': ObjectId('6079046b0a1059edc7f08e97'),
+ 'definition': 'Color of a nice sunset',
+ 'word': 'Orange'}
