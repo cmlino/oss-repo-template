@@ -13,15 +13,23 @@ if __name__ == '__main__':
     for definition in collection.find():
         pprint.pprint(definition)
     
+    print("\n\n")
+
     # Fetch one record
-    print("\n Fetch one record")
+    print("Fetch one record (random)")
     pprint.pprint(collection.find_one())
 
-    # Fetch a specifc record
+    print("\n\n")
+    print("Fetch a specifc record (word: bulk)")
     pprint.pprint(collection.find_one({"word": "Bulk"}))
 
-    # Fetch a record by oject id
+    print("\n\n")
+
+    print("Fetch a record by oject id")
     pprint.pprint(collection.find_one({"_id": ObjectId("56fe9e22bad6b23cde07b8ce")}))
 
+    print("\n\n")
+
     # Insert a new record
-    pprint.pprint(collection.insert_one({"word": "Orange", "definition": "Color of a nice sunset"}))
+    collection.insert_one({"word": "Orange", "definition": "Color of a nice sunset"})
+    pprint.pprint(collection.find_one({"word": "Orange"}))
