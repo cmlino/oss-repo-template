@@ -52,4 +52,5 @@ This is a link to the output for that file:
 
 ## Checkpoint 5: Random Word Requester
 This is a link to my checkpoint5.py:
-This is a link to the output for that file:
+This is a screenshot to the output for a word that was visited twice:
+<img src="checkpoint5_0.PNG">
