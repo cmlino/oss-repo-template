@@ -21,11 +21,13 @@ I included the original images and their edited versions (converted to greyscale
 0 
 T-shirt/top
 ```
+
 The image was predicted to be of a t-shirt or a top. It's a t-shirt, so this prediction was pretty accurate.
 <img src="checkpoint3_0_results.png">
 
 <img src="checkpoint3_1.PNG">
 <img src="checkpoint3_1_edited.PNG">
+
 ```
 [[2.0479086e-01 1.0786996e-06 1.3100503e-04 1.4576639e-04 5.5848345e-06
   3.2908595e-08 7.9492527e-01 6.0002177e-12 3.6161140e-07 9.4586046e-09]]
@@ -45,5 +47,6 @@ This image was precicted to be of a shirt or a t-shirt. It's more of a shirt tha
  6 
  Shirt
 ```
+
 This image was most likely harder to classify becuase it's patterned. The image features shorts, but the model predicted the item to be a shirt. 
 <img src="checkpoint3_2_results.png">
